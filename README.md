@@ -1,4 +1,5 @@
-#Aplikasi keranjang/kasir sederhana yang juga merupakan modifikasi aplikasi di repo sebelumnya yang juga merupakan bahan untuk UTS saya, dan sekarang memperbaiki dengan menambahkan beberapa fitur baru
+# Study Kasus
+ Aplikasi sederhana untuk kasir
 
 # Kegunaan
 - User dapat memilih, serta menghapus item pada keranjang
