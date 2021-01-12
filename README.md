@@ -1,3 +1,7 @@
+Nama  : Dian Pratama
+NIM   : 19.11.2763
+Kelas : 19 Informatika 03
+
 # Study Kasus
  Aplikasi sederhana untuk kasir
 
